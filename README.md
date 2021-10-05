@@ -25,7 +25,7 @@ This project proposes the Title- Weighed TF-IDF based on VSM and combined it wit
 
 This repository includes source code, scripts, and data for my practice project "Topic Analysis of Weibo News Based on Title-Weighted LDA Model". Completed in May 2020.
 
-这里存放着一个我用于学习和联系的项目的资料，名字是“基于标题加权的LDA模型的微博新闻主题分析”。完成于2020年5月。
+这里存放着一些我为了学习和练习而所做的的项目的相关资料，名字是“基于标题加权的LDA模型的微博新闻主题分析”。完成于2020年5月。
 
 これは学校の課題のため作ったプロジェクトに関する資料です。名前の日本語での意味は「タイトル加重LDAモデルに基づくWeiboニューストピック分析」。2020年5月で完成しました。
 
