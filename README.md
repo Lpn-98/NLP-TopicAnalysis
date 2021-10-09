@@ -18,7 +18,6 @@ This project proposes the Title- Weighed TF-IDF based on VSM and combined it wit
     + [Conclusion](#conclusion)
     + [Future work](#future-work)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Background
