@@ -11,9 +11,9 @@ This project proposes the Title- Weighed TF-IDF based on VSM and combined it wit
     + [2. Decide value of parameter gamma](#2-decide-value-of-parameter-gamma)
     + [3.Topic clustering simple analysis - take TW-LDA as example](#3topic-clustering-simple-analysis---take-tw-lda-as-example)
   * [Topic classification - dataset 2](#topic-classification---dataset-2)
-    + [SVM modelling](#svm-modelling)
+    + [SVM modeling](#svm-modeling)
   * [Topic analysis - dataset 1 and 2](#topic-analysis---dataset-1-and-2)
-    + [Combine LDA and SVM modelling](#combine-lda-and-svm-modelling)
+    + [Combine LDA and SVM modeling](#combine-lda-and-svm-modeling)
   * [Conclusion and future work](#conclusion-and-future-work)
     + [Conclusion](#conclusion)
     + [Future work](#future-work)
@@ -116,7 +116,7 @@ Below is the number of posted text per month of "HK Riots" topic：
 
 
 ## Topic classification - dataset 2
-### SVM modelling
+### SVM modeling
 
 ![image](https://user-images.githubusercontent.com/58460943/135998364-87d9e8d5-2e7e-43f2-aa84-ae9b3aa51a4c.png)
 
@@ -137,7 +137,7 @@ In the case of the data set used in this article, for a title feature word that 
 
 
 ## Topic analysis - dataset 1 and 2
-### Combine LDA and SVM modelling
+### Combine LDA and SVM modeling
 
 Combining the Title-Weighted LDA model in the previous section with the Title-Weighted TF-IDF SVM classification model in this section, we can classify a text according to events and channels. For example, use following text as input:
 
